@@ -1,0 +1,22 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  h2 {
+    color: #333;
+  }
+  .project {
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  a {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 3px;
+  }
